@@ -56,10 +56,6 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ## <a id=“features”>Features</a>
 
 * Use different libraries/modules for simple analysis of data from an Excel workbook: 
