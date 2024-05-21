@@ -43,7 +43,7 @@
 ## <a name="about-the-project"></a>About The Project
 
 This is a solution to the assignment "Spreadsheet Analysis" as outlined in the course "Introduction to Python & Apps" by <a href="https://codefirstgirls.com/">Code First Girls Ltd</a>. It entails basic analysis of fictional sales data using both Excel and Python. See <a href="#features">Features</a> for an overview of the methods and libraries/modules used.
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -66,7 +66,7 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 * Create a simple lineplot for showing periodic changes as a percentage
 * Import an Excel file and then writing results to a new Excel file
 * Assign data to different spreadsheets upon writing to the new Excel file
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -192,7 +192,7 @@ PY FILE 3
 
 
 See the [open issues](https://github.com/isabelsw/cfgdataanalysis/issues) for a full list of proposed features and known issues.
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -210,7 +210,7 @@ Don't forget to give the project a star! Thanks!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`) 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -219,7 +219,7 @@ Don't forget to give the project a star! Thanks!
 ## <a name="licence"></a>Licence
 
 Distributed under the MIT Licence. See "LICENSE.txt" for more information.
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -230,7 +230,7 @@ Distributed under the MIT Licence. See "LICENSE.txt" for more information.
 My profile - <a href="https://github.com/isabelsw">isabelsw</a>
 
 Project link - [https://github.com/isabelsw/cfgdataanalysis](https://github.com/isabelsw/cfgdataanalysis)
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -241,7 +241,7 @@ Project link - [https://github.com/isabelsw/cfgdataanalysis](https://github.com/
 * The project brief was created by <a href="https://codefirstgirls.com/">Code First Girls Ltd</a>. A special thanks goes to my instructors Vanny and Andrew on the "Introduction to Python & Apps" course.
 * <a href="https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md?plain=1">README template</a> was created by <a href="https://github.com/othneildrew">Othneil Drew</a>.
 * GIF courtesy of <a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">GIPHY</a>.
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -255,5 +255,5 @@ Project link - [https://github.com/isabelsw/cfgdataanalysis](https://github.com/
 * <a href="https://pandas.pydata.org/">pandas</a> logo: Copyright © 2008 AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team.
 * <a href="https://seaborn.pydata.org/index.html">Seaport</a> logo: Copyright © Matthias Bussonnier and Seaport.
 * <a href="https://matplotlib.org/stable/">matplotlib</a> logo: Copyright ©  2002–2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012–2024 The Matplotlib development team.
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
