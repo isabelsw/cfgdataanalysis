@@ -50,11 +50,9 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 
 ## <a name="built-with"></a>Built With
 
-<p>
-
 ![logo_banner](https://github.com/isabelsw/cfgdataanalysis/assets/170036120/321d6f3c-373c-4369-a312-5bc67b18bb19)
 
-</p>
+<p>&nbsp;</p>
 
 ## <a id=“features”>Features</a>
 
