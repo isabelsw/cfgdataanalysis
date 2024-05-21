@@ -120,7 +120,7 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
         ```sh
         pip install pandas
         ```
-
+<p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
