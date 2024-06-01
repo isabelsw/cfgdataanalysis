@@ -144,7 +144,7 @@ PY FILE 1
 
 <p>&nbsp;</p>
 
-* **Create a function** named read_data **using def and ** to retrieve the sales and months from the spreadsheet.
+* **Create a function** named read_data using **def** to retrieve the sales and months from the spreadsheet.
 * Use the **def method** to create a function that makes a Py dictionary from the data for monthly sales (from sales.csv). 
 * Collect **all the sales** from each month into a single list using the **list() function**.
 * Get the **sales total** (across all months) using the **sum() function**.
