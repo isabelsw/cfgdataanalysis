@@ -64,7 +64,7 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 * Find the total sum of values and the minimum and maximum values
 * Use pct_change for working out periodic changes as a percentage
 * Create a simple lineplot for showing periodic changes as a percentage
-* Import an Excel file and then writing results to a new Excel file
+* Import an Excel file and then write results to a new Excel file
 * Assign data to different spreadsheets upon writing to the new Excel file
 <p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
