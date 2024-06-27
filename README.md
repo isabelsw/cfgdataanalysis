@@ -50,7 +50,9 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 
 ## <a name="built-with"></a>Built With
 
-![logo_banner](https://github.com/isabelsw/cfgdataanalysis/assets/170036120/321d6f3c-373c-4369-a312-5bc67b18bb19)
+| Python | PyCharm | pandas | Matplotlib | Seaborn | Microsoft Excel 365 |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>| <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> |
 
 <p>&nbsp;</p>
 
