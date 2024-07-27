@@ -131,7 +131,7 @@ This is a solution to the assignment "Spreadsheet Analysis" as outlined in the c
 ## <a name="roadmap"></a>Roadmap 
 
 If you want to have a go yourself, I have provided the **guide** below. You will create **3 separate Py files** that reflect each stage of the process. 
-- N.B. From this point on, **Python** will be abbreviated as **Py**.
+- N.B. From this point on, **Python** will be abbreviated to **Py**.
 
 PY FILE 1
 
